@@ -1,0 +1,1 @@
+document.write("ลิ้งค์ Facebook");
