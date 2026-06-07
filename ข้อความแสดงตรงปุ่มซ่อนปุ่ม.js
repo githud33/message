@@ -1,0 +1,1 @@
+document.write("ซ่อนปุ่ม");
