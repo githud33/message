@@ -2,7 +2,7 @@
 // document.addEventListener("DOMContentLoaded", function() {
     
     // ตรงนี้คือเอาข้อความไปใส่ในกล่องชื่อ myBox
-    document.getElementById("myImg").innerHTML = "𝐆𝐨𝐨𝐝 𝐒𝐞𝐫𝐢𝐞𝐬";
+    document.getElementById("NameTag").innerHTML = "𝐆𝐨𝐨𝐝 𝐒𝐞𝐫𝐢𝐞𝐬";
 
 // });
 // 𝐆𝐨𝐨𝐝 𝐒𝐞𝐫𝐢𝐞𝐬
