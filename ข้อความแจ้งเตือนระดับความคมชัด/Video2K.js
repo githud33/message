@@ -34,7 +34,7 @@ window.addEventListener('load', function() {
     // แบบที่ 3: แช่ค้างไว้ตลอด (ไอดีใหม่ที่คุณต้องการเพิ่ม)
     setupNotice('Video_K', 
         '✨ซีรี่ย์มีความคมชัด 2K หากหนังสะดุดให้ลดความคมชัดลงห้ามเกิน 1080p แล้วรีเฟรช เพื่อเริ่มเล่นใหม่อีกครั้ง', 
-        25, 
+        20, 
         'color: #2ecc71; font-size: 18px; border-bottom: 1px dashed #ccc; padding-bottom: 5px;'
     );
 });
